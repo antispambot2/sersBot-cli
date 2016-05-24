@@ -231,6 +231,7 @@ function create_config( )
     "get",
     "broadcast",
     "invite",
+    "aparat",
     "all",
     "leave_ban",
 	"supergroup",
