@@ -225,6 +225,7 @@ function create_config( )
     "set",
     "update",
     "weather",
+    "help",
     "get",
     "broadcast",
     "invite",
