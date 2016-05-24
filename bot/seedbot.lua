@@ -217,6 +217,7 @@ function create_config( )
     "inrealm",
     "ingroup",
     "inpm",
+    "arz",
     "banhammer",
     "stats",
     "anti_spam",
