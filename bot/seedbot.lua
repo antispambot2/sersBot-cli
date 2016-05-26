@@ -268,7 +268,7 @@ Our channels
 Our website 
 http://teleseed.seedteam.org/
 ]],
-    help_text_realm = [[
+    --help_text_realm = [[
 Realm Commands:
 
 !creategroup [Name]
@@ -351,7 +351,7 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use res, setowner, commands
 ]],
-    help_text = [[
+    --help_text = [[
 Commands list :
 
 !kick [username|id]
