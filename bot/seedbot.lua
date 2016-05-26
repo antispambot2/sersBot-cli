@@ -228,6 +228,7 @@ function create_config( )
     "update",
     "weather",
     "info",
+    "insta",
     "help",
     "tv",
     "plugins",
