@@ -234,6 +234,7 @@ function create_config( )
     "plugins",
     "get",
     "broadcast",
+    "user",
     "invite",
     "aparat",
     "all",
